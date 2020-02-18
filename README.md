@@ -1,2 +1,3 @@
 # Deimos
-A ROS and Gazebo space simulation environment.
+A Gazebo-based space simulation environment.
+Under development!
